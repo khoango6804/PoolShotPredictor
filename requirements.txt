@@ -1,0 +1,14 @@
+ultralytics>=8.3.0  # YOLOv8
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+supervision>=0.3.0  # For object tracking
+python-dotenv>=1.0.0
+roboflow>=1.1.21  # For dataset download
+tqdm>=4.65.0  # Progress bars
+PyYAML>=6.0  # YAML file handling
+matplotlib>=3.7.0  # Plotting
+seaborn>=0.12.0  # Statistical data visualization
+pandas>=2.0.0  # Data manipulation
+wandb>=0.16.0  # Weights & Biases for experiment tracking 
