@@ -175,29 +175,4 @@ textColor = "#262730"
 4. Push to branch: `git push origin feature-name`
 5. Submit pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics) for YOLOv11
-- [Streamlit](https://streamlit.io/) for web interface
-- [OpenCV](https://opencv.org/) for computer vision
-- [PyTorch](https://pytorch.org/) for deep learning
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/yolov11-billiards-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/yolov11-billiards-detection/discussions)
-- **Email**: your.email@example.com
-
-## 🔄 Updates
-
-- **v1.0.0**: Initial release with basic detection
-- **v1.1.0**: Added advanced interface and network access
-- **v1.2.0**: Improved performance and added real-time features
-
----
-
 ⭐ **Star this repository if you find it useful!** 
