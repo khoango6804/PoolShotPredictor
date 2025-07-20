@@ -1,0 +1,6 @@
+Training Results
+metrics/precision(B): 0.7599398119777606
+metrics/recall(B): 0.7826826569788528
+metrics/mAP50(B): 0.8063199827492897
+metrics/mAP50-95(B): 0.5035424314937709
+fitness: 0.5338201866193227

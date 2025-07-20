@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['BottomLeft', 'BottomRight', 'IntersectionLeft', 'IntersectionRight', 'MediumLeft', 'MediumRight', 'SemicircleLeft', 'SemicircleRight', 'TopLeft', 'TopRight']
+
+roboflow:
+  workspace: tfg-3qyi4
+  project: pocket-detection
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tfg-3qyi4/pocket-detection/dataset/3
